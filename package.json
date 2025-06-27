@@ -1,4 +1,3 @@
-json
 {
   "name": "magento-tests",
   "version": "1.0.0",
@@ -15,3 +14,4 @@ json
   "author": "Niha",
   "license": "MIT"
 }
+
