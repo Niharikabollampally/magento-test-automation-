@@ -1,0 +1,16 @@
+json{
+  "name": "magento-tests",
+  "version": "1.0.0",
+  "description": "Automated testing for Magento demo site",
+  "main": "playwright-test.js",
+  "scripts": {
+    "test": "node playwright-test.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "keywords": ["automation", "testing", "magento", "playwright"],
+  "author": "Niha",
+  "license": "MIT"
+}
